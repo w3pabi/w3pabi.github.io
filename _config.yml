@@ -20,6 +20,7 @@ title                    : "Site Title"
 title_separator          : "-"
 name                     : "W3pabi"
 description              : "An amazing website."
+remote_theme             : mmistakes/minimal-mistakes
 url                      : "https://w3pabi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
